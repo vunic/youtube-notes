@@ -1,6 +1,6 @@
 #  <img src="images/video-editing64.png" align="center" > Vuntec Video Notes
 
-[Get at Chrome Web Store](https://chrome.google.com/webstore/detail/vuntec-video-notes/olbkhhjjhfihgkhcggcbhegpnljlndlc)
+[Get at Chrome Web Store ( version 0.9.3 ) ](https://chrome.google.com/webstore/detail/vuntec-video-notes/olbkhhjjhfihgkhcggcbhegpnljlndlc).
 
 Bookmark a note at any point in a YouTube video!
 
@@ -21,17 +21,23 @@ Keep track of and quickly find important parts of your favorite YouTube videos
 
 
 ## Extention Popup Dialog
+
+Once the Extension is installed you will see the Extension's icon in the Chrome toolbar. Clicking the icon will open a popup dialog window.
+
 <img src="images/notes_003.jpg" >
 
 ---
 ## Anatomy of the Note Area
+
+The new note area will now be added to all your YouTube Video pages.
+
 <img src="images/notes_009.jpg" >
 
 1) Favorite Star
 2) Date and Time Originally Bookmarked
 3) Time since created and number of visits to the page
 4) Toolbar
-5) Note time control
+5) Note time control.
 6) Note
 7) Remove note
 
@@ -50,7 +56,7 @@ Keep track of and quickly find important parts of your favorite YouTube videos
 
 * <img src="images/list.png" align="center" > 
 
- * n.b. adding a "shift" click will create a list that adds a direct url link to the note. Helpful if you want to copy and send to someone
+ * n.b. adding a "shift" click will create a list that adds a direct URL link to the note. Helpful if you want to copy and send to someone
 
 ### Grab Frame 
 
@@ -61,10 +67,30 @@ Keep track of and quickly find important parts of your favorite YouTube videos
 
 * <img src="images/redo.png" align="center"  >  
 
+### Mark Video a Favorite
+
+* <img src="images/starred.png" align="center" >
+ * Click the star to turn favorite on and off
+
+
 ### Genre
 
  <img src="images/notes_007.jpg" align="center"  >  
 
+
+## Transcript usage
+
+The Extension will open the video's transcript if it exist and copy the active line when adding a note. _This feature can be turned off on the options page._
+
+ <img src="images/notes_005.jpg" align="center"  >  
+
+
+## Popup Info
+
+Get feedback from Extension as you interact with it. _This feature can be turned off on the options page._
+
+
+ <img src="images/notes_011.jpg" align="center"  >  
 
 ---
 
@@ -77,21 +103,30 @@ Keep track of and quickly find important parts of your favorite YouTube videos
 
 <img src="images/notes_010.jpg"  >
 
+* **Genre** Add or Edit the Genre list. This is comma delimited
+* **User Access**. Shower your level of access
+* **Image size**. Change the size of the thumbnail image for the **View History Page**
+* **Page size**. Change the number of notes per page for the **View History Page**
+* **Open Transcript**.  Automatically open the transcript on the video page 
+* **See Popup info**.  Get feedback from Extension as you interact with it on the video page 
+
 ---
 
 
 ## Preview Sheet
+Generate a sperate window with a thumbnail link for each note.
 
 <img src="images/notes_002.jpg"  >
 
 ---
-## View History of Notes
+# View History of Notes
+See all the notes you created. You can also filter and sort them to help find what you are looking for. On the right are the keywords that the videos have which were added by their creators.
 
 <img src="images/vun21.jpg"  >
 
-## Quick Preview
+## Quick Preview in View History 
 
-move mouse over thumbnail to get a quick preview of the video
+Mouseover any thumbnail to get a quick preview of the video for a quick visual search.
 
 <img src="images/preview.gif"  >
 
